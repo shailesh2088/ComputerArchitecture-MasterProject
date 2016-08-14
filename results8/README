@@ -1,0 +1,9 @@
+The files in this tarball are for one victim cache size.
+The file names indicate the associativity for the L1 Caches.
+For e.g. gzip1a.out is the output file for a L1 cache with associativity 1, when sim-outorder is run for the gzip benchmark;
+while gzip8a.out is the output file for a L1 cache with associativity 8, when sim-outorder is run for the gzip benchmark.
+
+The benchmarks used here are from the SPEC2000 Benchmarks
+The integer benchmarks are gzip and gcc
+The Floating point benchmarks are equake and lucas
+

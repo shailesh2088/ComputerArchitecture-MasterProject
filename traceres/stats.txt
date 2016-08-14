@@ -1,0 +1,4 @@
+il1config = il1:2048:32:1:l
+dl1config = dl1:512:32:4:l
+dl2config = dl2:4096:128:8:l
+Memory Latencies: 1st: 150  next: 5
